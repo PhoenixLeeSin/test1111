@@ -1,0 +1,1 @@
+<view><view>我是父组件</view><deliveryinfo vue-id="5dcf7ab6-1" item="{{item}}" bind:__l="__l"></deliveryinfo></view>

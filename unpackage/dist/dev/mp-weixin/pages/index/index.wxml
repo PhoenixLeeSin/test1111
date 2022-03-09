@@ -1,0 +1,1 @@
+<view class="content"><image class="logo" src="/static/logo.png"></image><view class="text-area"><text data-event-opts="{{[['tap',[['go',['$event']]]]]}}" class="title" bindtap="__e">点击跳转分包的页面</text></view></view>
